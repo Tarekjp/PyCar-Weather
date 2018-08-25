@@ -2,8 +2,8 @@
 
 # PyCar - Weather | Yahoo Weather App for PyCar
 
-#
-#
+###
+###
 
 ### Plugin info:
 
@@ -33,5 +33,5 @@ sudo pip3 install {added in future}
 - Extract the folder from the .ZIP file
 - Copy the folder to the root directory of PyCar
 
-#
-#
+###
+###
