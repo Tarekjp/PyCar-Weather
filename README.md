@@ -27,6 +27,6 @@ sudo apt-get install python3 (If Python 3 is not intalled)
 sudo apt-get install python3-pip (If pip 3 is not installed)
 sudo pip3 install {added in future}
 ```
-- Extract the folder from the .ZIP file
+- Extract the "weather" folder from the .ZIP file
 - Copy the folder to the root directory of PyCar
 
